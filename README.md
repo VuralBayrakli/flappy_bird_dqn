@@ -1,6 +1,9 @@
 # Deep Q Networks ile Flappy Bird Simülasyonu
 
 Bu projede Pekiştirmeli Öğrenme bilgilerimi artırmak için DQN yöntemiyle Flappy Bird oyununu simüle etmeye çalıştım. 
+`model.py`, evrişim ağlarından oluşan modeli içerir.
+`train.py`, modelin eğitilmesi işlemini gerçekleştirir.
+`play.py`, oyunu manuel oynamak için çalıştırılır. 
 
 ## Projeyi yükleyin
 
